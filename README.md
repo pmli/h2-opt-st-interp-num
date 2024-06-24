@@ -27,7 +27,10 @@ pip install -r requirements.txt
 
 The experiments are given as three Python scripts
 (`second-order.py`, `port-Hamiltonian.py`, `time-delay.py`).
-They can be opened as Jupyter notebooks via
+Note that `second-order.py` and `port-Hamiltonian.py` may complete in a few
+minutes, but `time-delay.py` may take 10h.
+
+The scripts can be opened as Jupyter notebooks via
 [`jupytext`](https://jupytext.readthedocs.io/en/latest/).
 
 ## Author
